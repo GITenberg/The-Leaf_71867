@@ -1,0 +1,35 @@
+_repo: The-Leaf_71867
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kluga, Richard
+    alias: Kluga, Richard Paul
+    gutenberg_agent_id: '56288'
+    url: http://www.gutenberg.org/2009/agents/56288
+creator:
+  author:
+    agent_name: Young, Robert F.
+    alias: Young, Robert Franklin
+    birthdate: 1915
+    deathdate: 1986
+    gutenberg_agent_id: '25767'
+    url: http://www.gutenberg.org/2009/agents/25767
+    wikipedia: https://en.wikipedia.org/wiki/Robert_F._Young
+description: ''
+gutenberg_issued: '2023-10-13'
+identifiers:
+  gutenberg: '71867'
+language: en
+pgterms:marc905: 20230909102858young
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Leaf
+url: http://www.gutenberg.org/ebooks/71867
