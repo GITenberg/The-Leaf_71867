@@ -6,6 +6,9 @@ contributor:
     alias: Kluga, Richard Paul
     gutenberg_agent_id: '56288'
     url: http://www.gutenberg.org/2009/agents/56288
+covers:
+- cover_type: archival
+  image_path: 71867-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Robert F.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25767
     wikipedia: https://en.wikipedia.org/wiki/Robert_F._Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71867#The-Leaf
 gutenberg_issued: '2023-10-13'
 identifiers:
   gutenberg: '71867'
